@@ -1,0 +1,19 @@
+{
+  "name": "sampler",
+  "version": "1.0.0",
+  "description": "sampler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opendsp/sampler.git"
+  },
+  "author": "stagas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opendsp/sampler/issues"
+  },
+  "homepage": "https://github.com/opendsp/sampler#readme"
+}
